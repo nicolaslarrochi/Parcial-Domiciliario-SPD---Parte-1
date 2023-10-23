@@ -1,7 +1,7 @@
 
 # **Parcial domiciliario:** Sistemas de procesamiento de datos
 
-![Tinkercad](./Img/ArduinoTinkercad.jpg)
+![Tinkercad](.Parte 1/Img/ArduinoTinkercad.jpg)
 ## *Division E*
 
 ## **Integrantes:**
