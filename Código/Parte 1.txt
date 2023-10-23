@@ -264,3 +264,4 @@ void printDigit(int digit)  // Dibuja el numero en el display de 7Segmentos
          break;
     }
 }
+
