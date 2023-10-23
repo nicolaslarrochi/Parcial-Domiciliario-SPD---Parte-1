@@ -1,2 +1,2 @@
-# Parcial-Integrador---SPD
+# Parcial-Integrador-SPD-Parte 1
 Parcial domiciliario
